@@ -1,5 +1,5 @@
 
-# Hi there 👋,
+# Hi there 👋
 
 ### About Me: 
 
@@ -27,5 +27,10 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-gray?style=for-the-badge&logo=gmail)](mailto:realpranav.me@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/realpranav/)
+
+***
+
+#### Thanks for visiting! 
+#### Have a good day!
  
 
